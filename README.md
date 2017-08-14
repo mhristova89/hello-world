@@ -1,2 +1,2 @@
 # hello-world
-Test reporsitory
+Test repository
